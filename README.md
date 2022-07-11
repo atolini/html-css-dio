@@ -4,5 +4,5 @@
 <ul>
 Goals:
 <li>Demonstrate mastery in CSS Flexbox.</li>
-<li>- Use relative measures (responsiveness).</li>
+<li>Use relative measures (responsiveness).</li>
 </ul>
